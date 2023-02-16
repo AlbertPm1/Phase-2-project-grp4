@@ -3,8 +3,7 @@
 This is a React App that generates movies by fetching movie data from the [The Open Movie Database(OMDB) public API](https://www.omdbapi.com/). 
 
 
-* Link to live site on GitHub: https://github.com/Lik10280/Phase-2-project-grp4
-
+* Link to live site on GitHub:https://github.com/AlbertPm1/Phase-2-project-grp4
 * The following image demonstrates the application functionality:
 <img src ="./project.jpeg">
 
